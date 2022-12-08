@@ -1,21 +1,21 @@
-## The Spotify Index
+# The Spotify Index
 
-# Purchasing Power Parity
+## Purchasing Power Parity
 
-# Why Spotify
+## Why Spotify
 
-# Data Sources
+## Data Sources
 
-# Steps
+## Steps
 
-1.
+### 1.
 
-2.
+### 2.
 
-3.
+### 3.
 
-4.
+### 4.
 
-5.
+### 5.
 
-6.
+### 6.
