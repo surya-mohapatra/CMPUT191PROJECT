@@ -1,5 +1,7 @@
 # The Spotify Index
 
+![spotify][def]
+
 ## Purchasing Power Parity
 
 ## Why Spotify
@@ -21,3 +23,6 @@
 ### 6.
 
 theme: Minima
+
+
+[def]: image.png
