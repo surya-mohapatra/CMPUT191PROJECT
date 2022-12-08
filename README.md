@@ -6,7 +6,7 @@
 Purchasing power parity is a concept where the price of a good is measured in different countries to compare the absolute purchasing power of the country. The price of a good would be the same in different countries if there were no transaction costs or trade barriers for that good.
 
 # Why Spotify
-Spotify is a audio streaming service and is one of the largest music streaming providers with around 450 million monthly active users and 195 million paying subscribers. It offers digital copyright restricted recorded music and podcasts, which includes more than 82 million songs from record labels and media companies(5). Spotify is avialble in a total of 184 markets including Asia, Africa, Americas, Oceania and Europe; Spotify can be streamed on windows, macos, ios, android and many other devices. I have used spotify for about 7-8 years and thought that it would be interesting to see the pricing differences of a spotify premium subscription in different countries.
+Spotify is a audio streaming service and is one of the largest music streaming providers with around 450 million monthly active users and 195 million paying subscribers. It offers digital copyright restricted recorded music and podcasts, which includes more than 82 million songs from record labels and media companies(5). Spotify is available in a total of 184 markets including Asia, Africa, Americas, Oceania and Europe; Spotify can be streamed on windows, macos, ios, android and many other devices. I have used spotify for about 7-8 years and thought that it would be interesting to see the pricing differences of a spotify premium subscription in different countries.
 
 # Steps
 
