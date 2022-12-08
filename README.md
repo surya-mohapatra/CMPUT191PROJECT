@@ -10,7 +10,10 @@ Spotify is a audio streaming service and is one of the largest music streaming p
 
 ## Steps
 
-### 1.
+### 1. Importing the Spotify Subscription Pricing Data 
+Source:https://howtospotify.com/spotify-premium-price/
+I chose to use countries from the American Continent including countries from both North America and South America. I chose these countries because I wanted to see how the prices differ across North Anerica and South America. In order to webscrape the data, I used the BeautifulSoup method.
+![image](https://user-images.githubusercontent.com/120099114/206542459-663751e1-2e21-4f8b-ab0b-1337acc8db2a.png)
 
 ### 2.
 
