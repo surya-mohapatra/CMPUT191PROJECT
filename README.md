@@ -18,10 +18,17 @@ I chose to use countries from the American Continent including countries from bo
 
 ### 2. Cleaning the data
 To clean the data I had to delete unnecessary rows, relabel the columns and convert the price from USD to CAD.
+![image](https://user-images.githubusercontent.com/120099114/206544597-dcc7a77f-4f70-4ebf-be6f-d385cc33f691.png)
+![image](https://user-images.githubusercontent.com/120099114/206544898-a27fde0c-9df5-4662-8191-0b95e6eda445.png)
 
 ### 3. Adding the Country Codes and Tax rates
+I hardcoded the sales tax rates and country codes for each country and then added them to the table. 
+![image](https://user-images.githubusercontent.com/120099114/206545485-fd635292-341a-4fe5-9da9-3d309623f594.png)
 
 ### 4. Barplot of Pricing Difference between Canada and other countries
+In order to compare the pricing difference between Canada and other American countries I subtracted the price of a Canadian Spotify subscription from the price of a Spotify subscription in other countries. I then added these values to a table and obtained a barplot.
+![image](https://user-images.githubusercontent.com/120099114/206546718-02c57a02-388c-4cfd-b19d-0ab9b374f8cf.png)
+![image](https://user-images.githubusercontent.com/120099114/206546774-38af3911-44c3-4dca-907a-2e9cfcb0cf50.png)
 
 ### 5.External Factor
 
