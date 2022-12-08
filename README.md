@@ -1,6 +1,12 @@
-# CMPUT191PROJECT
+## The Spotify Index
 
-The Spotify Index
+# Purchasing Power Parity
+
+# Why Spotify
+
+# Data Sources
+
+# Steps
 
 1.
 
