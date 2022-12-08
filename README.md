@@ -1,6 +1,6 @@
 # The Spotify Index
 
-![spotify][def]
+![unnamed](https://user-images.githubusercontent.com/120099114/206535243-492f6ef1-fd32-4691-a32b-b78e376e780a.png)
 
 ## Purchasing Power Parity
 
@@ -23,6 +23,3 @@
 ### 6.
 
 theme: Minima
-
-
-[def]: image.png
